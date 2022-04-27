@@ -1,0 +1,8 @@
+prefix=/home/helloworld/Desktop/calibration/devel
+
+Name: mindvision
+Description: Description of mindvision
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib -lmindvision
+Requires: 
