@@ -31,6 +31,9 @@ bash cmd.sh N M Square
 (chessboard size as NxM, counting interior corners, chessboard square size in meters)
 (e.g bash cmd.sh 11 7 0.091)
 ```
+### CHANGE CAMERA PARAMS
+plz revise the src/mindvision_usb_node/nodes/mindvision/mindvision.cpp line 245 to line 258
+
 ### COMMON PROBLEM
 #### 1.  cv_bridge
 Like
